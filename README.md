@@ -2,7 +2,7 @@
 ---
 ##Robinhood Case Study
 ---
-###Question 1 What is the background of your company? What do they do? Who are their competitors?  Robinhood is a financial services company that offers a mobile app and a website that allows people the ability to invest in stocks, ETF, cryptocurrencies and does not charges any fee or requires minimum checking account balance. They made it more accessible to more people to invest easily without paying any fee.  Their biggest competitions are Schwab and E*Trade- who are well established and been in the game for a long time. However, Robinhood seems to appeal more to the Millennials- making very popular in the recent years. 
+###Question 1 What is the background of your company? What do they do? Who are their competitors?Robinhood is a financial services company that offers a mobile app and a website that allows people the ability to invest in stocks, ETF, cryptocurrencies and does not charges any fee or requires minimum checking account balance. They made it more accessible to more people to invest easily without paying any fee. Their biggest competitions are Schwab and E*Trade- who are well established and been in the game for a long time. However, Robinhood seems to appeal more to the Millennials- making very popular in the recent years.
 ---
 ###Question 2 Robinhood uses technology as an advantage in a few ways. First, they are easily accessible to small retail brokers; traditionally, one had to call brokers and pay hefty fees. Robinhood also provides up-to-date market quotes through a simplified user interface which attracts new investors. 
 Robinhood is a FinTech company because they provide synergies within both Finance and Tech. For Finance, Robinhood provides commission free investing and democratizes investing to small and new retail clients. For Tech, Robinhood provides up to date market costs, a simplified brokerage platform, and new product offerings (crypto, options, etc).
@@ -19,6 +19,6 @@ The crypto currencies are becoming popular every where right now, recently I rea
 
 ####Contributors: Md(Atef) Ajmal, Ryan Chiu, Lidia Maltz, Muhammed Parekh, Aaron Sechler
 ---
-![markdown-image](Robinhood.jpeg)
+![markdown-image](Robinhood.png)
 ---
 #*Fintech Class 3 Case Study Exercise - Robinhood*
